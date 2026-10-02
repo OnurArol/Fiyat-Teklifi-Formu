@@ -1,0 +1,16 @@
+FİYAT TEKLİFİ — ADAHAN MAKİNA
+
+1. GitHub üzerinde fiyat-teklifi adıyla ayrı bir public depo açın.
+2. Bu ZIP dosyasını açın. İçindeki index.html, sw.js, manifest.webmanifest, ikonlar ve .nojekyll dosyasını deponun ana dizinine yükleyin. ZIP dosyasını doğrudan yüklemeyin.
+3. Settings > Pages > Deploy from a branch > main > / (root) seçip Save tıklayın.
+4. Pages bölümündeki site bağlantısını açın. Telefonda Safari paylaş menüsünden Ana Ekrana Ekle seçin.
+
+İLK KULLANIM
+Firma sekmesinden firma adı, adres, vergi ve banka bilgilerini kontrol edin.
+Makineler sekmesindeki 23 kayıt, gönderdiğiniz örneklerin başlangıç kataloğudur. Fiyatlar geçmiş teklif örnekleridir: güncel fiyatları ve teknik özellikleri kontrol edip düzenleyin. Fotoğrafları değiştirebilir, yeni makineler ekleyebilirsiniz.
+Teklif sekmesinden müşteriyi, para birimini, makineleri, KDV ve ödeme planını seçin. PDF veya Word indirin.
+PDF paylaşımı için önce dosyayı hazırlayın, ardından Paylaşımı aç düğmesine basın. Paylaşıma yalnız dosya eklenir; bağlantı veya mesaj metni eklenmez. Desteklemeyen tarayıcılarda PDF'yi indirip WhatsApp içinden belge olarak seçin.
+
+KAYITLAR
+Teklifler, müşteri bilgileri ve makine değişiklikleri kullandığınız cihazın tarayıcısında saklanır. Cihazlar arasında otomatik aktarım yoktur. Kayıtlar sekmesinden düzenli yedek alın; başka cihazda aynı yedeği içe aktarın. Tarayıcı/site verilerini temizlemek kayıtları silebilir.
+İlk açılış internet gerektirir; dosyalar önbelleğe alındıktan sonra aynı cihazda çevrimdışı kullanılabilir.
